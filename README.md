@@ -1,5 +1,11 @@
 # 🌾 SAT-AGRI: FPO Impact & Benefit Analyzer
 
+## 🚀 Live Demo
+
+🔗 https://fpo-project-ishwlu45jxhg5chafegtnn.streamlit.app/
+
+This is a fully deployed interactive dashboard built using Streamlit, allowing real-time prediction and analysis of FPO impact.
+
 ## 📌 Project Overview
 
 SAT-AGRI is an end-to-end machine learning and analytics system designed to evaluate and predict the impact of Farmer Producer Organizations (FPOs) on agricultural productivity and farmer income.
